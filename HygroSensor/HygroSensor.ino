@@ -1,5 +1,5 @@
 #define SensorPin A0 //Constante SensorPin sur A0
-#define ms 100 //Constante ms pour le taux de rafraichissement en millisecondes de la loop 
+#define ms 200 //Constante ms pour le taux de rafraichissement en millisecondes de la loop 
 #define contrast 60 //Contraste de l'ecran LCD
 
 #include <LiquidCrystal.h>; //Importation de la librairie pour utiliser le LCD
